@@ -1,6 +1,31 @@
 # About Xanadu navbar project
 
 ## Project demo
+| Web      | Mobile |
+| ----------- | ----------- |
+| ![Screen Shot 2023-08-13 at 10 23 17 PM](https://github.com/yogirajzala369/xanadu-navbar/assets/111154494/564ea775-7a36-4fc1-8687-71e1492a8cf0) | ![Screen Shot 2023-08-13 at 10 23 54 PM](https://github.com/yogirajzala369/xanadu-navbar/assets/111154494/3a7614ed-f09b-4047-ba4b-53c185b1f9af)|
+| ![Screen Shot 2023-08-13 at 10 25 07 PM](https://github.com/yogirajzala369/xanadu-navbar/assets/111154494/309e18f6-0644-4167-9e48-155d6d645268) |![Screen Shot 2023-08-13 at 10 25 30 PM](https://github.com/yogirajzala369/xanadu-navbar/assets/111154494/745a8624-6f1b-4547-a1d3-bd1c125215cf)|
+
+
+
+
+
+# Screen recording
+
+
+- https://github.com/yogirajzala369/xanadu-navbar/assets/111154494/f258d04d-92d9-4c62-a831-e631b4bdb9e5
+
+
+
+- https://github.com/yogirajzala369/xanadu-navbar/assets/111154494/ca3b8a5f-42d6-48d9-977c-8bff53eb3e06
+
+
+
+- https://github.com/yogirajzala369/xanadu-navbar/assets/111154494/3beb3665-bf90-4b3b-96f4-f39539143dab
+
+
+
+
 
 ## Getting started with the project
 
